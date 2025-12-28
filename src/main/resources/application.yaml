@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/bot_db
     username: postgres
-    password: fPJ6lqoNi
+    password:
     driver-class-name: org.postgresql.Driver
 
   jpa:
@@ -22,4 +22,4 @@ spring:
 
 telegram:
    bot:
-     token: 8289757095:AAEKKs5LQZvbWJVSM9Fn-DTgQ5OT-kw_PHc
+     token:
